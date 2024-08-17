@@ -1,6 +1,6 @@
-rule DetectHiInTextFile {
+rule DetectHiInFile {
     meta:
-        description = "Detects the presence of the letters 'hi' in a file"
+        description = "hello :)"
         author = "Powerpellet1077"
         date = "2024-08-17"
     
